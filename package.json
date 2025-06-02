@@ -1,8 +1,9 @@
 {
-  "name": "hello-world",
-  "displayName": "hello-world",
+  "name": "hello-world-by-adi",
+  "displayName": "hello-world-by-adi",
   "description": "A simple Hello World extension",
   "version": "0.0.1",
+  "publisher": "AdityaSah",
   "engines": {
     "vscode": "^1.100.0"
   },
